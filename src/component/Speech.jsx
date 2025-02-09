@@ -15,7 +15,7 @@ export const Speech = () => {
       </div>
 
       <div className="relative max-w-full border-[10px] border-[#11929E] rounded-lg overflow-hidden shadow-lg">
-        <img src={speech} alt="CEO Speech" className="w-[600px] h-[500px]" />
+        <img src={speech} alt="CEO Speech" className="w-[800px] h-[500px]" />
       </div>
     </div>
   );
